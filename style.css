@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", sans-serif;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+}
+
+header {
+  background-color: #2d6a4f;
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+section {
+  padding: 2rem;
+}
+
+section h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #1b4332;
+}
+
+section img {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  display: block;
+  margin: 1rem auto;
+  border-radius: 10px;
+}
+
+.campo {
+  background-color: #d8f3dc;
+}
+
+.cidade {
+  background-color: #ffe5b4;
+}
+
+.conexao {
+  background-color: #e0e0e0;
+}
+
+ul {
+  margin-top: 1rem;
+  list-style: disc;
+  margin-left: 2rem;
+}
+
+footer {
+  text-align: center;
+  background-color: #081c15;
+  color: white;
+  padding: 1rem;
+  font-size: 0.9rem;
+}
